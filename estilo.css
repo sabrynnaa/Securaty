@@ -1,0 +1,19 @@
+.text{
+    font-size: 30px;
+    color: black;
+    padding: 80px;
+    text-shadow: 2px 2px 2px red;
+    display: inline-block;
+    text-align: center;
+
+
+
+}
+.text2{
+    text-shadow: 2px 2px 2px blue;
+    padding: 60px;
+    color: aqua;
+    font-size: 20px;
+    margin-top: -200px;
+margin-left: 40px;
+}
